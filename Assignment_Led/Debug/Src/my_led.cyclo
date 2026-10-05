@@ -1,5 +1,0 @@
-../Src/my_led.c:9:6:led_init	1
-../Src/my_led.c:25:6:led_on	1
-../Src/my_led.c:31:6:led_off	1
-../Src/my_led.c:37:6:led_alternate	1
-../Src/my_led.c:43:6:led_alternate_reverse	1
