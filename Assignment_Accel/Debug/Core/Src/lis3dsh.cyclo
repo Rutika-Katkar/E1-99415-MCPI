@@ -1,0 +1,5 @@
+../Core/Src/lis3dsh.c:13:6:Accel_Write	1
+../Core/Src/lis3dsh.c:42:6:Accel_Read	1
+../Core/Src/lis3dsh.c:71:6:Accel_Init	1
+../Core/Src/lis3dsh.c:83:6:Accel_WaitForReading	2
+../Core/Src/lis3dsh.c:97:16:Accel_GetReading	1
